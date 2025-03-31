@@ -109,6 +109,6 @@ This Power BI project provides valuable insights into sales trends, product dema
 
 ### 📌 Author: [MAHALAKSHMI ELANGOVAN]
 ### 🏆 Technologies Used: Power BI, DAX, Excel
-### 📂 Repository: [GitHub Repository Link]
+### 📂 Repository: [https://github.com/Mahaelango/Food_beverage_dashboard.git]
 
 
